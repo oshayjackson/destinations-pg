@@ -1,0 +1,17 @@
+header.container,
+#user-input-form {
+  display: flex;
+  flex-direction: column;
+}
+
+header.container {
+  align-items: center;
+  padding: 2rem;
+  /* ---------------- */
+  font-family: Playpen sans;
+}
+
+#user-input-form input,
+#user-input-form textarea {
+  margin-bottom: 1rem;
+}
