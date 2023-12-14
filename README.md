@@ -1,3 +1,5 @@
-repo-name: destinations-pg
-protected-branch: origin-main
-personal-branch: os-local-main
+~ Repository name: destinations-pg
+
+~ Protected brnach: origin-main
+
+~ Worker branch: os-main
