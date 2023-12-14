@@ -23,4 +23,5 @@ header.container {
 #card_container {
   display: flex;
   flex-wrap: wrap;
+  gap: 1rem;
 }
