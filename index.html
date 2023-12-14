@@ -32,17 +32,18 @@
       <div class="row">
         <article class="col-12 col-sm-4">
           <form id="user_input_form">
-            <label for="destination-name">Destination</label>
-            <input type="text" placeholder="Enter destination name" id="destination-name" />
+            <label for="destination_name">Destination</label>
+            <input required type="text" placeholder="Enter destination name" id="destination-name" />
 
-            <label for="location-name">Location</label>
-            <input type="text" placeholder="Enter destination location" id="location-name" />
+            <label for="location_name">Location</label>
+            <input required type="text" placeholder="Enter destination location" id="location-name" />
 
             <label for="photo">Location</label>
-            <input type="text" placeholder="photo url id="photo"" />
+            <input required type="text" placeholder="photo url id="photo"" />
 
             <label for="description">Description</label>
             <textarea id="description" placeholder="description" cols="30" rows="10"></textarea>
+            <input required type="button" value="Submit" />
           </form>
         </article>
 
