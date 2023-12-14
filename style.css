@@ -1,5 +1,5 @@
 header.container,
-#user-input-form {
+#user_input_form {
   display: flex;
   flex-direction: column;
 }
@@ -11,16 +11,16 @@ header.container {
   font-family: Playpen sans;
 }
 
-#user-input-form input,
-#user-input-form textarea {
+#user_input_form input,
+#user_input_form textarea {
   margin-bottom: 1rem;
 }
 
-#card-container-heading {
+#card_container_heading {
   text-align: center;
 }
 
-#card-container {
+#card_container {
   display: flex;
   flex-wrap: wrap;
 }
