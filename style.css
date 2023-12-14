@@ -15,3 +15,12 @@ header.container {
 #user-input-form textarea {
   margin-bottom: 1rem;
 }
+
+#card-container-heading {
+  text-align: center;
+}
+
+#card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
