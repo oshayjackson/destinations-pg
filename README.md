@@ -1,2 +1,3 @@
 repo-name: destinations-pg
-protected-branch: os-local-main
+protected-branch: origin-main
+personal-branch: os-local-main
